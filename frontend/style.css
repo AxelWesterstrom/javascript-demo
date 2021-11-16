@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;1,100&family=Zen+Kurenaido&display=swap');
+
+body {
+  background-color: brown;
+  font-family: 'Lato';
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+}
+
+input {
+  font-family: 'Lato';
+  width: calc(100% - 10%);
+}
+
+.person {
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px 0;
+}
+
+.person p {
+  display: none;
+}
+
+.person h3 {
+  
+}
